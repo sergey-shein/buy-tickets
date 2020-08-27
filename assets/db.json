@@ -1,0 +1,179 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "status": "occupied",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "status": "free",
+      "price": 1100
+    },
+    {
+      "id": 4,
+      "status": "occupied",
+      "price": 1000
+    },
+    {
+      "id": 5,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 6,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 7,
+      "status": "occupied",
+      "price": 1000
+    },
+    {
+      "id": 8,
+      "status": "free",
+      "price": 1300
+    },
+    {
+      "id": 9,
+      "status": "free",
+      "price": 1200
+    },
+    {
+      "id": 10,
+      "status": "occupied",
+      "price": 1000
+    },
+    {
+      "id": 11,
+      "status": "occupied",
+      "price": 1000
+    },
+    {
+      "id": 12,
+      "status": "free",
+      "price": 1200
+    },
+    {
+      "id": 13,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 14,
+      "status": "occupied",
+      "price": 1000
+    },
+    {
+      "id": 15,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 16,
+      "status": "free",
+      "price": 1100
+    },
+    {
+      "id": 17,
+      "status": "occupied",
+      "price": 1000
+    },
+    {
+      "id": 18,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 19,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 20,
+      "status": "occupied",
+      "price": 1100
+    },
+    {
+      "id": 21,
+      "status": "occupied",
+      "price": 1000
+    },
+    {
+      "id": 22,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 23,
+      "status": "free",
+      "price": 1400
+    },
+    {
+      "id": 24,
+      "status": "occupied",
+      "price": 1000
+    },
+    {
+      "id": 25,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 26,
+      "status": "free",
+      "price": 1200
+    },
+    {
+      "id": 27,
+      "status": "occupied",
+      "price": 1200
+    },
+    {
+      "id": 28,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 29,
+      "status": "free",
+      "price": 1300
+    },
+    {
+      "id": 30,
+      "status": "occupied",
+      "price": 1000
+    },
+    {
+      "id": 31,
+      "status": "occupied",
+      "price": 1000
+    },
+    {
+      "id": 32,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 33,
+      "status": "free",
+      "price": 1000
+    },
+    {
+      "id": 34,
+      "status": "occupied",
+      "price": 1000
+    },
+    {
+      "id": 35,
+      "status": "free",
+      "price": 1000
+    }
+  ]
+}
